@@ -5,10 +5,12 @@
 This is a plugin for [Contentstack's](https://www.contentstack.com/) CLI.
 This plugin generates TypeScript typings from Content Types. Interfaces and fields are optionally annotated with JSDoc comments.
 
+This fork is so we can test the tsgen plugin with the functionality written to allow type fetching on stacks with more than 100 content types.
+
 ## How to install this plugin
 
 ```shell
-$ csdx plugins:install contentstack-cli-tsgen
+$ csdx plugins:install @tahzoo/contentstack-cli-tsgen
 ```
 
 ## How to use this plugin
