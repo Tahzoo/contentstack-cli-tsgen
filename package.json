@@ -1,5 +1,5 @@
 {
-  "name": "contentstack-cli-tsgen",
+  "name": "@tahzoo/contentstack-cli-tsgen",
   "description": "Generate TypeScript typings from a Stack.",
   "version": "2.1.0",
   "author": "Michael Davis",
